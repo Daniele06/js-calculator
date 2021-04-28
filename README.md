@@ -8,4 +8,6 @@ I didn't think a calculator would be this hard to make. In this project i didn't
 I also added Memory Store and Memory Clear buttons as a bonus.
 
 ![project picture](challenge10.gif)
-![project picture](code.png)
+
+Javascript code
+![project picture](js-code.png)
