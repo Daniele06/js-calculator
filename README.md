@@ -8,5 +8,6 @@ I also added Memory Store and Memory Clear buttons as a bonus.
 
 ![project picture](challenge10.gif)
 
-Javascript code
+## Javascript code
+
 ![project picture](js-code.png)
