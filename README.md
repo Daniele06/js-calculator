@@ -1,4 +1,4 @@
-#Javascript Calculator Project
+# Javascript Calculator Project
 
 Challenge 10 from the [100+ Javascript projects page](https://jsbeginners.com/calculator-javascript-project/)
 
